@@ -12,4 +12,5 @@
 
 6  Size is not grandeur, and territory does not make a nation
 mandatory
- 
+
+Assembler: A script that generates the assembly code of a C code and save it in an output file 

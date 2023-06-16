@@ -6,4 +6,6 @@
 
 3-name:   Variable names in C are made up of letters (upper and lower case) and digits. The underscore character ("_") is also permitted. Names must not begin with a digit. Unlike some languages (such as Perl and some BASIC dialects), C does not use any special prefix characters on variable names.
 
-4-hello, put: 
+4-hello, put:
+
+5 printf: "printf" is the name of one of the main C output functions, and stands for "print formatted". printf format strings are complementary to scanf format strings, which provide formatted input (lexing aka. parsing). 

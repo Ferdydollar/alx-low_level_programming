@@ -13,4 +13,6 @@
 6  Size is not grandeur, and territory does not make a nation
 mandatory
 
-Assembler: A script that generates the assembly code of a C code and save it in an output file 
+7.Assembler: A script that generates the assembly code of a C code and save it in an output file 
+
+8. unix: is a multiuser, multitasking operating system (OS) designed for flexibility and adaptability. Originally developed in the 1970s, Unix was one of the first OSes to be written in the C programming language.

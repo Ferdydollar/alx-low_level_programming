@@ -16,5 +16,7 @@
 
 8-print_base16.c
 
-0x01-variables_if_else_while
+9-print_comb.c
+
+100-print_comb3.c
 
